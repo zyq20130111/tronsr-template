@@ -3,7 +3,7 @@ Wang Feng
 
 Founder
 
-![Image of Yaktocat](/wangfeng.png)
+![Image of Yaktocat](http://static.huoxing24.com/images/2018/05/15/1526388071506734.jpg)
 
 	*	1997-2007, VP of Kingsoft which is the leading security and office software company in China
 	*	2007- up to now, he established Linekong Group which is leading mobile game company and was listed on Hong Kong Stock Exchange in 2014. 
