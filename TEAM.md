@@ -12,6 +12,7 @@ Founder
 * 2017-2018 established HuoXing blockchain portal which is the leading media in China
   
 Shang SIlin 
+
 The Head of Media
 
 ![Image of ssl](http://static.huoxing24.com/images/2018/05/15/1526388070917416.jpg)
@@ -22,7 +23,9 @@ The Head of Media
 
 
 Yan Wen Bo
+
 The Head of Community
+
 ![Image of ywb](http://static.huoxing24.com/images/2018/05/15/1526388071056726.jpg)
 
 * Community Parter of HuoXing, alias MengXiaoShe
@@ -32,7 +35,9 @@ The Head of Community
 
 
 Xu Bo
+
 The Head of Technology
+
 ![Image of xb](http://static.huoxing24.com/images/2018/05/15/1526388071205623.jpg)
 
 * Master, Beihang university
@@ -41,6 +46,7 @@ The Head of Technology
 * Currently he is overseeing EOS Galaxy with the management, strategy and operations of the Block Producing section
 
 Zhang Hong Liang
+
 The Head of DAPP Dev
 
 ![Image of xb](http://static.huoxing24.com/images/2018/05/15/1526388071028772.jpg)
@@ -50,14 +56,18 @@ The Head of DAPP Dev
 * Blockchain technology and EOS enthusiasts. He began to lead the development of three blockchain games in 2017, aiming to make more people understand the blockchain through games.
 
 Cui Yuanlong
+
 Operation Technical Architect
+
 ![Image of cyl](http://static.huoxing24.com/images/2018/05/15/1526388071554415.jpg)
 
 * Graduated from Beijing university of posts and telecommunications major in computer science and technology. Many years of operation and maintenance work experience.
 * Be familiar with public cloud platforms such as aws and aliyun. Mainly responsible for the company's multi-level supporting platform, the maintenance of the basic platform, the overall cloud platform architecture planning and implementation. For automation technology, container technology has a deep understanding. Rich experience in node security and network maintenance.
 
 Zhang gang
+
 BlockChain Dev Engineer
+
 ![Image of cyl](https://huoxing24.oss-cn-beijing.aliyuncs.com/image/news/2018/05/1526455737722445.jpg)
 
 * responsible for building TRON super nodes and TRON technology research.More than 10 years of online game development experience, familiar with U3D, unreal and other game engines.
