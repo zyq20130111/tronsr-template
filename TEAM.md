@@ -68,6 +68,6 @@ Zhang gang
 
 BlockChain Dev Engineer
 
-![Image of cyl](https://huoxing24.oss-cn-beijing.aliyuncs.com/image/news/2018/05/1526455737722445.jpg)
+![Image of cyl](https://huoxing24.oss-cn-beijing.aliyuncs.com/image/news/2018/05/1527587105888065.jpg)
 
 * responsible for building TRON super nodes and TRON technology research.More than 10 years of online game development experience, familiar with U3D, unreal and other game engines.
